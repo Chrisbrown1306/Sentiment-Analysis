@@ -4,20 +4,20 @@ A comprehensive text classification project implementing Natural Language Proces
 
 ## 🎯 Features
 
-- **Text Preprocessing**: Tokenization, stop-word removal, stemming
-- **Feature Extraction**: TF-IDF vectorization
-- **Machine Learning Models**: Naive Bayes and Support Vector Machine (SVM)
-- **Performance Evaluation**: Confusion matrix, accuracy metrics, classification reports
-- **Visualization**: Sentiment distribution charts and model comparison plots
+- Text Preprocessing: Tokenization, stop-word removal, stemming
+- Feature Extraction: TF-IDF vectorization
+- Machine Learning Models: Naive Bayes and Support Vector Machine (SVM)
+- Performance Evaluation: Confusion matrix, accuracy metrics, classification reports
+- Visualization: Sentiment distribution charts and model comparison plots
 
 ## 🛠️ Technologies Used
 
-- **Python 3.8+**
-- **Scikit-learn**: Machine learning algorithms
-- **NLTK**: Natural language processing
-- **Pandas**: Data manipulation
-- **NumPy**: Numerical computations
-- **Matplotlib & Seaborn**: Data visualization
+- Python 3.8+
+- Scikit-learn: Machine learning algorithms
+- NLTK: Natural language processing
+- Pandas: Data manipulation
+- NumPy: Numerical computations
+- Matplotlib & Seaborn: Data visualization
 
 ## 📋 Prerequisites
 
@@ -197,9 +197,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+Om Naik
+- GitHub: [@ChrisBrown](https://github.com/ChrisBrown)
+
 
 ## 🙏 Acknowledgments
 
@@ -210,8 +210,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or feedback, please reach out:
-- Email: your.email@example.com
-- Project Link: [https://github.com/yourusername/sentiment-analysis-ml](https://github.com/yourusername/sentiment-analysis-ml)
+- Email: omnaik6969@gmail.com
+- Project Link: [https://github.com/ChrisBrown/sentiment-analysis-ml](https://github.com/yourusername/sentiment-analysis-ml)
 
 ---
 
