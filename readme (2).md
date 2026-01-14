@@ -193,7 +193,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](license.txt) file for details.
 
 ## 👤 Author
 
@@ -211,7 +211,7 @@ Om Naik
 
 For questions or feedback, please reach out:
 - Email: omnaik6969@gmail.com
-- Project Link: 
+- Project Link: https://github.com/Chrisbrown1306/Sentiment-Analysis
 
 ---
 
